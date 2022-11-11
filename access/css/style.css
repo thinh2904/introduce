@@ -11,7 +11,7 @@ body {
     align-items: center;
     font-family: 'Poppins',sans-serif;
     cursor: pointer;
-    background: url(/image/instagram-hex-colors-gradient-background.png)
+    background: url(../image/instagram-hex-colors-gradient-background.png)
 }
 
 #wrapper {
@@ -444,7 +444,7 @@ i.send-icon.fa-solid.fa-paper-plane {
 }
 
 .heart:hover {
-    cursor: url(/image/sym49.cur), auto;
+    cursor: url(../image/sym49.cur), auto;
 }
 
 .heart i {
