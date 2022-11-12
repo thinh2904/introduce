@@ -183,7 +183,7 @@ body {
 
 .video:active {
     position: absolute;
-    width: 100%;
+    width: 92%;
     height: 100%;
     z-index: 2;
 }
