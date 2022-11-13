@@ -183,15 +183,17 @@ body {
 
 .video:active {
     position: absolute;
-    width: 92%;
+    width: 91.5%;
     height: 100%;
-    z-index: 3;
+    z-index: 2;
+    border: 2px solid #1b9dff;
+    bottom: 0;
 }
 
-/* .video:active img {
+.video:active img {
     width: 100%;
     height: auto;
-} */
+}
 
 .videos .video img {
     max-width: 100%;
