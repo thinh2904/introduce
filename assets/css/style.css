@@ -54,6 +54,15 @@ body {
     font-weight: 300;
 }
 
+.menu li > a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu li > a:hover {
+    color: #000;
+}
+
 .header i {
     font-size: 20px;
 }
@@ -66,7 +75,7 @@ body {
     display: block;
 }
 
-.header .menu > li:hover {
+.header .menu li:hover {
     background-color: pink;
     color: #000;
 }
